@@ -1,3 +1,5 @@
+require 'yaml'
+
 require 'obscenity/error'
 require 'obscenity/config'
 require 'obscenity/base'
